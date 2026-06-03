@@ -1,6 +1,6 @@
 # Orbit Wars - Heuristic Bots
 
-My personal archive of the heuristic bots I iterated and submitted to the [Kaggle Orbit Wars competition](https://www.kaggle.com/competitions/orbit-wars). Every file here is one of my own submissions across ~14 major versions and dozens of patches. Sharing as baselines for the community.
+My personal archive of the heuristic bots I iterated and submitted to the [Kaggle Orbit Wars competition](https://www.kaggle.com/competitions/orbit-wars). Every file here is one of my own submissions across ~14 major versions and dozens of patches. Sharing as baselines.
 
 ## The Heuristic Ceiling
 
